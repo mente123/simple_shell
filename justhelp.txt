@@ -1,0 +1,14 @@
+Linux version 5.3.0-1032-aws
+These shell commands are defined internally.  Type `help' to see this list.
+Type `help name' to find out more about the function `name'.
+Use `info bash' to find out more about the shell in general.
+Use `man -k' or `info' to find out more about commands not in this list.
+
+
+alias [-p] [name[=value] ... ]
+history [-c] [-d offset] [n] or hi
+help [-s] [pattern ...]
+cd [-L|-P] [dir]
+env
+setenv
+unsetenv
